@@ -5,7 +5,7 @@ Lista de materiales para la construción de una persiana controlada con arduino:
    ---------------------------
     Construcción del cuerpo:
    ---------------------------
-      - Motor y componentes para la domotización de la persiana.
+   	- Motor y componentes para la domotización de la persiana.
 		·Enlace de compra: https://www.motorespersianas.com/motores-de-persianas/
 	- Cinta aislante.
 	- Fichas de conexión // empalme.
@@ -14,11 +14,12 @@ Lista de materiales para la construción de una persiana controlada con arduino:
    --------------------------- 
     Componentes electrónicos:
    ---------------------------
-      - x1 Arduino Uno o similar.
+   	- x1 Arduino Uno o similar.
 	- x1 Sensor LDR.
 	- x2 Botones // Pulsadores.
 	- x1 Interruptor 
 	- x3 LED.
 	- x2 Módulos de Relé.
 	- x1 Resistencia 10k.
-      - Jumpers o cables de conexión.
+ 	- Jumpers o cables de conexión.
+	
